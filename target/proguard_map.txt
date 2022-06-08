@@ -1,0 +1,8 @@
+com.codeusingjava.vault.VaultWithSpringApplication -> com.codeusingjava.vault.VaultWithSpringApplication:
+    java.lang.String username -> username
+    java.lang.String password -> password
+    void <init>() -> <init>
+    void main(java.lang.String[]) -> main
+    void test() -> test
+com.codeusingjava.vault.configuration.VaultConfig -> com.codeusingjava.vault.configuration.VaultConfig:
+    void <init>() -> <init>
